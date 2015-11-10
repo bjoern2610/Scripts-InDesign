@@ -1,3 +1,3 @@
 # Scripts-InDesign
 
-mes scripts indesign
+des scripts pour indesign
